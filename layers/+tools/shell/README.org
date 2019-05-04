@@ -28,7 +28,7 @@ file.
 
 * Configuration
 ** Default shell
-Emacs supports three types of shell:
+Emacs supports four types of shell:
 - the Emacs shell
 - the inferior shell
 - the terminal emulator
